@@ -1,4 +1,4 @@
-# rptfontissue
+===============================SolaimanLipifont ========================for Bangla
 
 0. open project from eclipse ide 
 
@@ -8,7 +8,7 @@
 
 3. create folder :    D:/reportissue/works.jrxml
 
-4. check jar  exists or not : fontlib --    Vrinda-1.0.jar
+4. check jar  exists or not : fontlib --    solimanLipi-1.0.jar
 
 5. maven install command from eclipse
 
@@ -22,7 +22,7 @@
 =======================  then =======
 ==== How to  add jar ================== for bangla font 
 
-https://github.com/masumcse1/Vrinda-font
+https://github.com/masumcse1/SolaimanLipifont.git
 
 1. downlaod this project and open in Eclipse IDE 
 
@@ -33,4 +33,4 @@ https://github.com/masumcse1/Vrinda-font
 
 ************************Jasper studio with external font**************************
 1. open source.tmp package
-2. read this Vrinda bangla font setup Studio.docx
+2. read this SolaimanLipifont bangla font setup Studio.docx
